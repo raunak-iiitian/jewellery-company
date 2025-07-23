@@ -8,3 +8,5 @@
 <li>Responsive</li>
 <li>Visually appealing</li>
 <li>CSS Effects</li>
+
+<a href="https://jewellery-company-rounak.vercel.app/">click here to check out</a>
